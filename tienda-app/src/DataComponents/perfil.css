@@ -1,0 +1,11 @@
+.page-container {
+    min-height: 100%;
+    align-items: center;
+  }
+  
+  .content-wrap {
+    width: 100%;
+    max-width: 100%;
+    padding: 20px;
+    margin: 0 auto;
+  }
